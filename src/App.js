@@ -47,7 +47,7 @@ function App() {
           : 'neutralBG'
       }`}
     >
-      <h2>Stock 💹 profit calculator 📈</h2>
+      <h2>Stock 💹 profit & loss calculator 📈</h2>
       <div className="container"></div>
       <h3>Enter purchase price:</h3>
       <input
