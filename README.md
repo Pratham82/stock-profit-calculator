@@ -1,4 +1,4 @@
-# Lucky birthday checker
+# Stock profit calculator
 
 Mark 14
 
