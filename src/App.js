@@ -49,7 +49,7 @@ function App() {
     >
       <h2>Stock 💹 profit calculator 📈</h2>
       <div className="container"></div>
-      <h3>Enter purchase amount:</h3>
+      <h3>Enter purchase price:</h3>
       <input
         type="number"
         className="inputStyles"
