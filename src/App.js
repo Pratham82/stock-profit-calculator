@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import CustomFooter from './CustomFooter'
 
 function App() {
   const [message, setMessage] = useState('')
@@ -90,6 +91,12 @@ function App() {
       <div className="report">
         <h3 className="outputMessage">{message.split('.')[0]}</h3>
         <h3 className="outputMessage">{message.split('.')[1]}</h3>
+        <CustomFooter
+          color="white"
+          size="2x"
+          author="Prathamesh"
+          url="https://github.com/pratham82"
+        />
       </div>
     </div>
   )
